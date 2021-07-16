@@ -41,7 +41,7 @@
   },
   {
     "testName": "IseK246cmKOrangeRed",
-    "active": true,
+    "active": false,
     "shipId": 553,
     "lvlRange": [81, 99],
     "moraleRange": [0, 32],
@@ -81,7 +81,7 @@
   },
   {
     "testName": "NagatoK216inchFCRRed",
-    "active": true,
+    "active": false,
     "shipId": 541,
     "lvlRange": [86, 99],
     "moraleRange": [0, 19],
@@ -99,7 +99,7 @@
   },
   {
     "testName": "GotlandKBofors15.2cmRed",
-    "active": true,
+    "active": false,
     "shipId": 579,
     "lvlRange": [78, 99],
     "moraleRange": [0, 19],
@@ -167,7 +167,7 @@
   },  
   {
     "testName": "TesteK14cmK+20.3cmx2Red",
-    "active": true,
+    "active": false,
     "shipId": 372,
     "lvlRange": [84, 93],
     "moraleRange": [0, 19],
@@ -185,7 +185,7 @@
   },
   {
     "testName": "NisshinABofors15.2cm+20.3cmx2Red",
-    "active": true,
+    "active": false,
     "shipId": 586,
     "lvlRange": [85, 99],
     "moraleRange": [0, 19],
@@ -194,7 +194,7 @@
   },
   {
     "testName": "HarunaK216inchMk1AOrange",
-    "active": true,
+    "active": false,
     "shipId": 151,
     "lvlRange": [95, 99],
     "moraleRange": [29, 32],
