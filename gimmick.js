@@ -113,6 +113,12 @@ client.query(`SELECT * FROM gimmick WHERE id > 118949 AND map = $1`, [map], (err
             const phase = lastDef.api_m1;
             abobj[difficulty][phase] = true;
         }
+        else if (entry.trigger.includes("nodeNext")) {
+            const phase = entry.trigger[entry.trigger.length - 1]
+            if (!obj[difficulty][phase]) obj[difficulty][phase] = {};
+            const node = edgesToNode(entry.nodes[entry.nodes.length - 1]);
+            obj[difficulty][phase][node] = null;
+        }
     }
 
     // Generate summary
@@ -123,7 +129,11 @@ client.query(`SELECT * FROM gimmick WHERE id > 118949 AND map = $1`, [map], (err
             console.log(`Phase ${phase}: ${nodes} ${abobj[difficulty][phase] ? "(LB Defense Required)" : ""}`);
             for (let node in obj[difficulty][phase]) {
                 const rank = obj[difficulty][phase][node];
-                console.log(`Node ${node}: ${rank_letters[rank]}-Rank`)
+                if (rank === null) {
+                    console.log(`Reach Node ${node}`);
+                } else {
+                    console.log(`Node ${node}: ${rank_letters[rank]}-Rank`)
+                }
             }
         }
         console.log();
