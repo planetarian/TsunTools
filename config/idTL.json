@@ -732,8 +732,8 @@
         },
         "147": {
             "icon": 1,
-            "jp": "120mm連装砲",
-            "en": "120mm Twin Gun Mount"
+            "jp": "120mm/50 連装砲",
+            "en": "120mm/50 Twin Gun Mount"
         },
         "148": {
             "icon": 7,
@@ -1920,6 +1920,381 @@
             "jp": "6inch三連装速射砲 Mk.16 mod.2",
             "en": "6inch Triple Rapid Fire Gun Mount Mk.16 mod.2"
         },
+        "388": {
+            "icon": 37,
+            "jp": "銀河(江草隊)",
+            "en": "Ginga (Egusa Squadron)"
+        },
+        "389": {
+            "icon": 46,
+            "jp": "TBM-3W+3S",
+            "en": "TBM-3W+3S"
+        },
+        "390": {
+            "icon": 3,
+            "jp": "16inch三連装砲 Mk.6+GFCS",
+            "en": "16inch Triple Gun Mount Mk.6 + GFCS"
+        },
+        "391": {
+            "icon": 7,
+            "jp": "九九式艦爆二二型",
+            "en": "Type 99 Dive Bomber Model 22"
+        },
+        "392": {
+            "icon": 7,
+            "jp": "九九式艦爆二二型(熟練)",
+            "en": "Type 99 Dive Bomber Model 22 (Skilled)"
+        },
+        "393": {
+            "icon": 1,
+            "jp": "120mm/50 連装砲 mod.1936",
+            "en": "120mm/50 Twin Gun Mount mod.1936"
+        },
+        "394": {
+            "icon": 1,
+            "jp": "120mm/50 連装砲改 A.mod.1937",
+            "en": "120mm/50 Twin Gun Mount Kai A.mod.1937"
+        },
+        "395": {
+            "icon": 49,
+            "jp": "深山",
+            "en": "Shinzan"
+        },
+        "396": {
+            "icon": 49,
+            "jp": "深山改",
+            "en": "Shinzan Kai"
+        },
+        "397": {
+            "icon": 16,
+            "jp": "現地改装12.7cm連装高角砲",
+            "en": "Locally Modified 12.7cm Twin High-angle Gun Mount"
+        },
+        "398": {
+            "icon": 16,
+            "jp": "現地改装10cm連装高角砲",
+            "en": "Locally Modified 10cm Twin High-angle Gun Mount"
+        },
+        "399": {
+            "icon": 2,
+            "jp": "6inch Mk.XXIII三連装砲",
+            "en": "6inch Mk.XXIII Triple Gun Mount"
+        },
+        "400": {
+            "icon": 5,
+            "jp": "533mm 三連装魚雷(53-39型)",
+            "en": "533mm Triple Torpedo Mount (Model 53-39)"
+        },
+        "401": {
+            "icon": 37,
+            "jp": "Do 17 Z-2",
+            "en": "Do 17 Z-2"
+        },
+        "402": {
+            "icon": 29,
+            "jp": "寒冷地装備&甲板要員",
+            "en": "Arctic Gear & Deck Personnel"
+        },
+        "403": {
+            "icon": 37,
+            "jp": "四式重爆 飛龍",
+            "en": "Type 4 Heavy Bomber Hiryuu"
+        },
+        "404": {
+            "icon": 37,
+            "jp": "四式重爆 飛龍(熟練)",
+            "en": "Type 4 Heavy Bomber Hiryuu (Skilled)"
+        },
+        "405": {
+            "icon": 37,
+            "jp": "Do 217 E-5+Hs293初期型",
+            "en": "Do 217 E-5 + Hs293 Initial Model"
+        },
+        "406": {
+            "icon": 37,
+            "jp": "Do 217 K-2+Fritz-X",
+            "en": "Do 217 K-2 + Fritz-X"
+        },
+        "407": {
+            "icon": 2,
+            "jp": "15.2cm連装砲改二",
+            "en": "15.2cm Twin Gun Mount Kai Ni"
+        },
+        "408": {
+            "icon": 20,
+            "jp": "装甲艇(AB艇)",
+            "en": "Soukoutei (Armored Boat Class)"
+        },
+        "409": {
+            "icon": 20,
+            "jp": "武装大発",
+            "en": "Armed Daihatsu"
+        },
+        "410": {
+            "icon": 11,
+            "jp": "21号対空電探改二",
+            "en": "Type 21 Air Radar Kai Ni"
+        },
+        "411": {
+            "icon": 11,
+            "jp": "42号対空電探改二",
+            "en": "Type 42 Air Radar Kai Ni"
+        },
+        "412": {
+            "icon": 32,
+            "jp": "水雷戦隊 熟練見張員",
+            "en": "Torpedo Squadron Skilled Lookouts"
+        },
+        "413": {
+            "icon": 28,
+            "jp": "精鋭水雷戦隊 司令部",
+            "en": "Elite Torpedo Squadron Command Facility"
+        },
+        "414": {
+            "icon": 10,
+            "jp": "SOC Seagull",
+            "en": "SOC Seagull"
+        },
+        "415": {
+            "icon": 10,
+            "jp": "SO3C Seamew改",
+            "en": "SO3C Seamew Kai"
+        },
+        "416": {
+            "icon": 38,
+            "jp": "零式艦戦21型(台南空)",
+            "en": "Type 0 Fighter Model 21 (Tainan Air Group)"
+        },
+        "417": {
+            "icon": 38,
+            "jp": "零式艦戦32型(台南空)",
+            "en": "Type 0 Fighter Model 32 (Tainan Air Group)"
+        },
+        "418": {
+            "icon": 38,
+            "jp": "零式艦戦22型(251空)",
+            "en": "Type 0 Fighter Model 22 (251 Air Group)"
+        },
+        "419": {
+            "icon": 7,
+            "jp": "SBD-5",
+            "en": "SBD-5"
+        },
+        "420": {
+            "icon": 7,
+            "jp": "SB2C-3",
+            "en": "SB2C-3"
+        },
+        "421": {
+            "icon": 7,
+            "jp": "SB2C-5",
+            "en": "SB2C-5"
+        },
+        "422": {
+            "icon": 6,
+            "jp": "FR-1 Fireball",
+            "en": "FR-1 Fireball"
+        },
+        "423": {
+            "icon": 9,
+            "jp": "Fulmar(戦闘偵察/熟練)",
+            "en": "Fulmar (Reconnaissance Fighter / Skilled)"
+        },
+        "424": {
+            "icon": 8,
+            "jp": "Barracuda Mk.II",
+            "en": "Barracuda Mk.II"
+        },
+        "425": {
+            "icon": 8,
+            "jp": "Barracuda Mk.III",
+            "en": "Barracuda Mk.III"
+        },
+        "426": {
+            "icon": 3,
+            "jp": "305mm/46 連装砲",
+            "en": "305mm/46 Twin Gun Mount"
+        },
+        "427": {
+            "icon": 3,
+            "jp": "305mm/46 三連装砲",
+            "en": "305mm/46 Triple Gun Mount"
+        },
+        "428": {
+            "icon": 3,
+            "jp": "320mm/44 連装砲",
+            "en": "320mm/44 Twin Gun Mount"
+        },
+        "429": {
+            "icon": 3,
+            "jp": "320mm/44 三連装砲",
+            "en": "320mm/44 Triple Gun Mount"
+        },
+        "430": {
+            "icon": 16,
+            "jp": "65mm/64 単装速射砲改",
+            "en": "65mm/64 Single Rapid Fire Gun Mount Kai"
+        },
+        "431": {
+            "icon": 37,
+            "jp": "SM.79",
+            "en": "SM.79"
+        },
+        "432": {
+            "icon": 37,
+            "jp": "SM.79 bis",
+            "en": "SM.79 bis"
+        },
+        "433": {
+            "icon": 37,
+            "jp": "SM.79 bis(熟練)",
+            "en": "SM.79 bis (Skilled)"
+        },
+        "434": {
+            "icon": 6,
+            "jp": "Corsair Mk.II",
+            "en": "Corsair Mk.II"
+        },
+        "435": {
+            "icon": 6,
+            "jp": "Corsair Mk.II(Ace)",
+            "en": "Corsair Mk.II (Ace)"
+        },
+        "436": {
+            "icon": 20,
+            "jp": "大発動艇(II号戦車/北アフリカ仕様)",
+            "en": "Daihatsu Landing Craft (Panzer II / North African Specification)"
+        },
+        "437": {
+            "icon": 6,
+            "jp": "試製 陣風",
+            "en": "Prototype Jinpuu"
+        },
+        "438": {
+            "icon": 18,
+            "jp": "三式水中探信儀改",
+            "en": "Type 3 Active Sonar Kai"
+        },
+        "439": {
+            "icon": 17,
+            "jp": "Hedgehog(初期型)",
+            "en": "Hedgehog (Initial Model)"
+        },
+        "440": {
+            "icon": 5,
+            "jp": "21inch艦首魚雷発射管6門(初期型)",
+            "en": "21inch 6-tube Bow Torpedo Launcher (Initial Model)"
+        },
+        "441": {
+            "icon": 5,
+            "jp": "21inch艦首魚雷発射管6門(後期型)",
+            "en": "21inch 6-tube Bow Torpedo Launcher (Late Model)"
+        },
+        "442": {
+            "icon": 5,
+            "jp": "潜水艦後部魚雷発射管4門(初期型)",
+            "en": "Submarine 4-tube Stern Torpedo Launcher (Initial Model)"
+        },
+        "443": {
+            "icon": 5,
+            "jp": "潜水艦後部魚雷発射管4門(後期型)",
+            "en": "Submarine 4-tube Stern Torpedo Launcher (Late Model)"
+        },
+        "444": {
+            "icon": 37,
+            "jp": "四式重爆 飛龍+イ号一型甲 誘導弾",
+            "en": "Type 4 Heavy Bomber Hiryuu + No.1 Model 1A Guided Missile"
+        },
+        "445": {
+            "icon": 44,
+            "jp": "二式複戦 屠龍",
+            "en": "Type 2 Two-seat Fighter Toryuu"
+        },
+        "446": {
+            "icon": 44,
+            "jp": "二式複戦 屠龍 丙型",
+            "en": "Type 2 Two-seat Fighter Toryuu Model C"
+        },
+        "447": {
+            "icon": 7,
+            "jp": "零式艦戦64型(複座KMX搭載機)",
+            "en": "Type 0 Fighter Model 64 (Two-seat w/ KMX)"
+        },
+        "449": {
+            "icon": 20,
+            "jp": "特大発動艇+一式砲戦車",
+            "en": "Toku Daihatsu Landing Craft + Type 1 Gun Tank"
+        },
+        "450": {
+            "icon": 11,
+            "jp": "13号対空電探改(後期型)",
+            "en": "Type 13 Air Radar Kai (Late Model)"
+        },
+        "451": {
+            "icon": 22,
+            "jp": "三式指揮連絡機改",
+            "en": "Type 3 Command Liaison Aircraft Kai"
+        },
+        "452": {
+            "icon": 44,
+            "jp": "キ96",
+            "en": "Ki-96"
+        },
+        "453": {
+            "icon": 48,
+            "jp": "キ102乙",
+            "en": "Ki-102 B"
+        },
+        "454": {
+            "icon": 48,
+            "jp": "キ102乙改+イ号一型乙 誘導弾",
+            "en": "Ki-102 B Kai + No.1 Model 1B Guided Missile"
+        },
+        "455": {
+            "icon": 1,
+            "jp": "試製 長12.7cm連装砲A型改四",
+            "en": "Prototype Long-barrel 12.7cm Twin Gun Mount Model A Kai 4"
+        },
+        "456": {
+            "icon": 11,
+            "jp": "SG レーダー(後期型)",
+            "en": "SG Radar (Late Model)"
+        },
+        "457": {
+            "icon": 5,
+            "jp": "後期型艦首魚雷(4門)",
+            "en": "Late Model Bow Torpedo Mount (4 tubes)"
+        },
+        "458": {
+            "icon": 42,
+            "jp": "後期型電探&逆探+シュノーケル装備",
+            "en": "Late Model Radar & Passive Radiolocator + Snorkel Equipment"
+        },
+        "459": {
+            "icon": 37,
+            "jp": "B-25",
+            "en": "B-25"
+        },
+        "460": {
+            "icon": 11,
+            "jp": "15m二重測距儀改+21号電探改二+熟練射撃指揮所",
+            "en": "15m Duplex Rangefinder Kai + Type 21 Air Radar Kai Ni + Skilled Fire Direction Center"
+        },
+        "463": {
+            "icon": 4,
+            "jp": "15.5cm三連装副砲改二",
+            "en": "15.5cm Triple Secondary Gun Mount Kai Ni"
+        },
+        "464": {
+            "icon": 16,
+            "jp": "10cm連装高角砲群 集中配備",
+            "en": "10cm Twin High-angle Gun Mount Battery Concentrated Deployment"
+        },
+        "465": {
+            "icon": 3,
+            "jp": "試製51cm三連装砲",
+            "en": "Prototype 51cm Triple Gun Mount"
+        },
         "501": {
             "icon": 1,
             "jp": "5inch単装砲",
@@ -2464,6 +2839,106 @@
             "icon": 2,
             "jp": "深海16inch三連装砲 Mk6",
             "en": "Abyssal 16inch Triple Gun Mount Mk.6"
+        },
+        "610": {
+            "icon": 10,
+            "jp": "深海カモメ水偵",
+            "en": "Abyssal Seagull Reconnaissance Seaplane"
+        },
+        "611": {
+            "icon": 10,
+            "jp": "深海海猫水偵",
+            "en": "Abyssal Seamew Reconnaissance Seaplane"
+        },
+        "612": {
+            "icon": 2,
+            "jp": "深海6inch三連装主砲 Mk.16",
+            "en": "Abyssal 6inch Triple Main Gun Mount Mk.16"
+        },
+        "613": {
+            "icon": 3,
+            "jp": "地中海12inch/46 連装砲",
+            "en": "Mediterranean 12inch/46 Twin Gun Mount"
+        },
+        "614": {
+            "icon": 3,
+            "jp": "地中海12inch/46 三連装砲",
+            "en": "Mediterranean 12inch/46 Triple Gun Mount"
+        },
+        "615": {
+            "icon": 3,
+            "jp": "地中海12.6inch/44 連装砲",
+            "en": "Mediterranean 12.6inch/44 Twin Gun Mount"
+        },
+        "616": {
+            "icon": 3,
+            "jp": "地中海12.6inch/44 三連装砲",
+            "en": "Mediterranean 12.6inch/44 Triple Gun Mount"
+        },
+        "617": {
+            "icon": 45,
+            "jp": "夜猫深海艦戦II",
+            "en": "Abyssal Night Cat Fighter II"
+        },
+        "618": {
+            "icon": 7,
+            "jp": "夜深海艦爆II",
+            "en": "Abyssal Night Dive Bomber II"
+        },
+        "619": {
+            "icon": 46,
+            "jp": "夜復讐深海艦攻II",
+            "en": "Abyssal Night Revenge Torpedo Bomber II"
+        },
+        "620": {
+            "icon": 7,
+            "jp": "深海戦爆複座鷹",
+            "en": "Abyssal Two-seat Fighter-bomber Hawk"
+        },
+        "621": {
+            "icon": 7,
+            "jp": "深海戦爆複座鷹改",
+            "en": "Abyssal Two-seat Fighter-bomber Hawk Kai"
+        },
+        "622": {
+            "icon": 5,
+            "jp": "深海四連装(酸素)魚雷後期型",
+            "en": "Abyssal Quadruple (Oxygen) Torpedo Mount Late Model"
+        },
+        "623": {
+            "icon": 1,
+            "jp": "深海5inch連装砲D型",
+            "en": "Abyssal 5inch Twin Gun Mount Model D"
+        },
+        "624": {
+            "icon": 5,
+            "jp": "深海五連装(酸素)魚雷後期型",
+            "en": "Abyssal Quintuple (Oxygen) Torpedo Mount Late Model"
+        },
+        "625": {
+            "icon": 7,
+            "jp": "深海双発陸爆",
+            "en": "Abyssal Twin-engine Land-based Dive Bomber"
+        },
+        "626": {
+            "icon": 7,
+            "jp": "深海双発陸爆Ace",
+            "en": "Abyssal Twin-engine Land-based Dive Bomber Ace"
+        },
+        "627": {
+            "icon": 1,
+            "jp": "深海5inch連装砲C型",
+            "en": "Abyssal 5inch Twin Gun Mount Model C"
+        },
+        "630": {
+            "icon": 37,
+            "jp": "深海空超要塞",
+            "en": "Abyssal Sky Super Fortress"
+        },
+        "631": {
+            "icon": 37,
+            "jp": "深海空超要塞改",
+            "en": "Abyssal Sky Super Fortress Kai"
         }
     },
     "ships": {
@@ -3639,6 +4114,10 @@
             "jp": "千代田航改二",
             "en": "Chiyoda-Kou Kai Ni"
         },
+        "299": {
+            "jp": "Scamp",
+            "en": "Scamp"
+        },
         "300": {
             "jp": "初風改",
             "en": "Hatsukaze Kai"
@@ -3926,6 +4405,10 @@
         "381": {
             "jp": "神鷹改",
             "en": "Shinyou Kai"
+        },
+        "382": {
+            "jp": "雲鷹改",
+            "en": "Unyou Kai"
         },
         "383": {
             "jp": "択捉改",
@@ -4387,6 +4870,10 @@
             "jp": "神威改母",
             "en": "Kamoi Kai Bo"
         },
+        "501": {
+            "jp": "最上改二",
+            "en": "Mogami Kai Ni"
+        },
         "503": {
             "jp": "鈴谷改二",
             "en": "Suzuya Kai Ni"
@@ -4394,6 +4881,10 @@
         "504": {
             "jp": "熊野改二",
             "en": "Kumano Kai Ni"
+        },
+        "506": {
+            "jp": "最上改二特",
+            "en": "Mogami Kai Ni Toku"
         },
         "508": {
             "jp": "鈴谷航改二",
@@ -4414,6 +4905,10 @@
         "513": {
             "jp": "Гангут два",
             "en": "Gangut Dva"
+        },
+        "514": {
+            "jp": "Sheffield",
+            "en": "Sheffield"
         },
         "515": {
             "jp": "Ark Royal",
@@ -4442,6 +4937,10 @@
         "521": {
             "jp": "春日丸",
             "en": "Kasuga Maru"
+        },
+        "522": {
+            "jp": "八幡丸",
+            "en": "Yawata Maru"
         },
         "524": {
             "jp": "択捉",
@@ -4479,6 +4978,10 @@
             "jp": "涼月",
             "en": "Suzutsuki"
         },
+        "533": {
+            "jp": "冬月",
+            "en": "Fuyutsuki"
+        },
         "534": {
             "jp": "神鷹",
             "en": "Shinyou"
@@ -4494,6 +4997,10 @@
         "537": {
             "jp": "涼月改",
             "en": "Suzutsuki Kai"
+        },
+        "538": {
+            "jp": "冬月改",
+            "en": "Fuyutsuki Kai"
         },
         "539": {
             "jp": "UIT-25",
@@ -4679,6 +5186,10 @@
             "jp": "海風改二",
             "en": "Umikaze Kai Ni"
         },
+        "588": {
+            "jp": "山風改二",
+            "en": "Yamakaze Kai Ni"
+        },
         "589": {
             "jp": "L.d.S.D.d.Abruzzi",
             "en": "Abruzzi"
@@ -4710,6 +5221,10 @@
         "597": {
             "jp": "Atlanta",
             "en": "Atlanta"
+        },
+        "598": {
+            "jp": "Honolulu",
+            "en": "Honolulu"
         },
         "599": {
             "jp": "赤城改二戊",
@@ -4750,6 +5265,10 @@
         "609": {
             "jp": "De Ruyter改",
             "en": "De Ruyter Kai"
+        },
+        "610": {
+            "jp": "加賀改二戊",
+            "en": "Kaga Kai Ni E"
         },
         "611": {
             "jp": "御蔵",
@@ -4843,6 +5362,10 @@
             "jp": "迅鯨",
             "en": "Jingei"
         },
+        "635": {
+            "jp": "長鯨",
+            "en": "Chougei"
+        },
         "636": {
             "jp": "伊47",
             "en": "I-47"
@@ -4851,13 +5374,137 @@
             "jp": "第四号海防艦",
             "en": "Kaiboukan No.4"
         },
+        "638": {
+            "jp": "第三〇号海防艦",
+            "en": "Kaiboukan No.30"
+        },
         "639": {
             "jp": "迅鯨改",
             "en": "Jingei Kai"
         },
+        "640": {
+            "jp": "長鯨改",
+            "en": "Chougei Kai"
+        },
         "641": {
             "jp": "松",
             "en": "Matsu"
+        },
+        "642": {
+            "jp": "竹",
+            "en": "Take"
+        },
+        "643": {
+            "jp": "梅",
+            "en": "Ume"
+        },
+        "644": {
+            "jp": "桃",
+            "en": "Momo"
+        },
+        "645": {
+            "jp": "宗谷",
+            "en": "Souya"
+        },
+        "646": {
+            "jp": "加賀改二護",
+            "en": "Kaga Kai Ni Go"
+        },
+        "647": {
+            "jp": "浦波改二",
+            "en": "Uranami Kai Ni"
+        },
+        "648": {
+            "jp": "秋雲改二",
+            "en": "Akigumo Kai Ni"
+        },
+        "649": {
+            "jp": "高波改二",
+            "en": "Takanami Kai Ni"
+        },
+        "650": {
+            "jp": "宗谷",
+            "en": "Souya"
+        },
+        "651": {
+            "jp": "丹陽",
+            "en": "Tan Yang"
+        },
+        "652": {
+            "jp": "球磨改二",
+            "en": "Kuma Kai Ni"
+        },
+        "653": {
+            "jp": "Scirocco",
+            "en": "Scirocco"
+        },
+        "654": {
+            "jp": "Washington",
+            "en": "Washington"
+        },
+        "655": {
+            "jp": "Northampton",
+            "en": "Northampton"
+        },
+        "656": {
+            "jp": "雪風改二",
+            "en": "Yukikaze Kai Ni"
+        },
+        "657": {
+            "jp": "球磨改二丁",
+            "en": "Kuma Kai Ni D"
+        },
+        "658": {
+            "jp": "Scirocco改",
+            "en": "Scirocco Kai"
+        },
+        "659": {
+            "jp": "Washington改",
+            "en": "Washington Kai"
+        },
+        "660": {
+            "jp": "Northampton改",
+            "en": "Northampton Kai"
+        },
+        "662": {
+            "jp": "能代改二",
+            "en": "Noshiro Kai Ni"
+        },
+        "663": {
+            "jp": "矢矧改二",
+            "en": "Yahagi Kai Ni"
+        },
+        "665": {
+            "jp": "曙改二",
+            "en": "Akebono Kai Ni"
+        },
+        "666": {
+            "jp": "磯波改二",
+            "en": "Isonami Kai Ni"
+        },
+        "667": {
+            "jp": "山風改二丁",
+            "en": "Yamakaze Kai Ni D"
+        },
+        "668": {
+            "jp": "矢矧改二乙",
+            "en": "Yahagi Kai Ni B"
+        },
+        "670": {
+            "jp": "親潮改二",
+            "en": "Oyashio Kai Ni"
+        },
+        "671": {
+            "jp": "巻波",
+            "en": "Makinami"
+        },
+        "674": {
+            "jp": "玉波",
+            "en": "Tamanami"
+        },
+        "675": {
+            "jp": "涼波",
+            "en": "Suzunami"
         },
         "678": {
             "jp": "日振改",
@@ -4927,6 +5574,14 @@
             "jp": "South Dakota改",
             "en": "South Dakota Kai"
         },
+        "698": {
+            "jp": "加賀改二",
+            "en": "Kaga Kai Ni"
+        },
+        "699": {
+            "jp": "宗谷",
+            "en": "Souya"
+        },
         "700": {
             "jp": "薄雲改",
             "en": "Usugumo Kai"
@@ -4947,13 +5602,2521 @@
             "jp": "Hornet改",
             "en": "Hornet Kai"
         },
+        "705": {
+            "jp": "Sheffield改",
+            "en": "Sheffield Kai"
+        },
+        "706": {
+            "jp": "竹改",
+            "en": "Take Kai"
+        },
+        "707": {
+            "jp": "Gambier Bay Mk.II",
+            "en": "Gambier Bay Mk.II"
+        },
+        "708": {
+            "jp": "桃改",
+            "en": "Momo Kai"
+        },
+        "709": {
+            "jp": "巻波改",
+            "en": "Makinami Kai"
+        },
+        "710": {
+            "jp": "涼波改",
+            "en": "Suzunami Kai"
+        },
+        "711": {
+            "jp": "Honolulu改",
+            "en": "Honolulu Kai"
+        },
+        "712": {
+            "jp": "第三〇号海防艦改",
+            "en": "Kaiboukan No.30 Kai"
+        },
+        "713": {
+            "jp": "Victorious改",
+            "en": "Victorious Kai"
+        },
+        "714": {
+            "jp": "昭南改",
+            "en": "Shounan Kai"
+        },
+        "715": {
+            "jp": "Scamp改",
+            "en": "Scamp Kai"
+        },
+        "716": {
+            "jp": "梅改",
+            "en": "Ume Kai"
+        },
+        "717": {
+            "jp": "山汐丸改",
+            "en": "Yamashio Maru Kai"
+        },
+        "718": {
+            "jp": "玉波改",
+            "en": "Tamanami Kai"
+        },
+        "719": {
+            "jp": "伊201改",
+            "en": "I-201 Kai"
+        },
+        "720": {
+            "jp": "早潮改",
+            "en": "Hayashio Kai"
+        },
+        "877": {
+            "jp": "Conte di Cavour",
+            "en": "Conte di Cavour"
+        },
+        "878": {
+            "jp": "Conte di Cavour改",
+            "en": "Conte di Cavour Kai"
+        },
+        "879": {
+            "jp": "Conte di Cavour nuovo",
+            "en": "Conte di Cavour Nuovo"
+        },
+        "881": {
+            "jp": "伊201",
+            "en": "I-201"
+        },
+        "882": {
+            "jp": "伊203",
+            "en": "I-203"
+        },
+        "883": {
+            "jp": "龍鳳改二戊",
+            "en": "Ryuuhou Kai Ni E"
+        },
+        "884": {
+            "jp": "雲鷹",
+            "en": "Unyou"
+        },
+        "885": {
+            "jp": "Victorious",
+            "en": "Victorious"
+        },
+        "886": {
+            "jp": "早潮",
+            "en": "Hayashio"
+        },
+        "887": {
+            "jp": "伊203改",
+            "en": "I-203 Kai"
+        },
+        "888": {
+            "jp": "龍鳳改二",
+            "en": "Ryuuhou Kai Ni"
+        },
+        "889": {
+            "jp": "雲鷹改二",
+            "en": "Unyou Kai Ni"
+        },
         "893": {
             "jp": "Janus改",
             "en": "Janus Kai"
         },
+        "895": {
+            "jp": "昭南",
+            "en": "Shounan"
+        },
+        "900": {
+            "jp": "山汐丸",
+            "en": "Yamashio Maru"
+        },
+        "903": {
+            "jp": "天霧改二",
+            "en": "Amagiri Kai Ni"
+        },
+        "908": {
+            "jp": "天霧改二丁",
+            "en": "Amagiri Kai Ni D"
+        },
+        "911": {
+            "jp": "大和改二",
+            "en": "Yamato Kai Ni"
+        },
+        "916": {
+            "jp": "大和改二重",
+            "en": "Yamato Kai Ni Juu"
+        },
         "1496": {
             "jp": "Colorado改",
             "en": "Colorado Kai"
+        },
+        "1501": {
+            "jp": "駆逐イ級",
+            "en": "I-Class Destroyer"
+        },
+        "1502": {
+            "jp": "駆逐ロ級",
+            "en": "Ro-Class Destroyer"
+        },
+        "1503": {
+            "jp": "駆逐ハ級",
+            "en": "Ha-Class Destroyer"
+        },
+        "1504": {
+            "jp": "駆逐ニ級",
+            "en": "Ni-Class Destroyer"
+        },
+        "1505": {
+            "jp": "軽巡ホ級",
+            "en": "Ho-Class Light Cruiser"
+        },
+        "1506": {
+            "jp": "軽巡ヘ級",
+            "en": "He-Class Light Cruiser"
+        },
+        "1507": {
+            "jp": "軽巡ト級",
+            "en": "To-Class Light Cruiser"
+        },
+        "1508": {
+            "jp": "雷巡チ級",
+            "en": "Chi-Class Torpedo Cruiser"
+        },
+        "1509": {
+            "jp": "重巡リ級",
+            "en": "Ri-Class Heavy Cruiser"
+        },
+        "1510": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1511": {
+            "jp": "戦艦ル級",
+            "en": "Ru-Class Battleship"
+        },
+        "1512": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1513": {
+            "jp": "輸送ワ級",
+            "en": "Wa-Class Transport Ship"
+        },
+        "1514": {
+            "jp": "駆逐イ級",
+            "en": "I-Class Destroyer"
+        },
+        "1515": {
+            "jp": "駆逐ロ級",
+            "en": "Ro-Class Destroyer"
+        },
+        "1516": {
+            "jp": "駆逐ハ級",
+            "en": "Ha-Class Destroyer"
+        },
+        "1517": {
+            "jp": "駆逐ニ級",
+            "en": "Ni-Class Destroyer"
+        },
+        "1518": {
+            "jp": "軽巡ホ級",
+            "en": "Ho-Class Light Cruiser"
+        },
+        "1519": {
+            "jp": "軽巡ヘ級",
+            "en": "He-Class Light Cruiser"
+        },
+        "1520": {
+            "jp": "軽巡ト級",
+            "en": "To-Class Light Cruiser"
+        },
+        "1521": {
+            "jp": "雷巡チ級",
+            "en": "Chi-Class Torpedo Cruiser"
+        },
+        "1522": {
+            "jp": "重巡リ級",
+            "en": "Ri-Class Heavy Cruiser"
+        },
+        "1523": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1524": {
+            "jp": "戦艦ル級",
+            "en": "Ru-Class Battleship"
+        },
+        "1525": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1526": {
+            "jp": "輸送ワ級",
+            "en": "Wa-Class Transport Ship"
+        },
+        "1527": {
+            "jp": "重巡リ級",
+            "en": "Ri-Class Heavy Cruiser"
+        },
+        "1528": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1529": {
+            "jp": "戦艦ル級",
+            "en": "Ru-Class Battleship"
+        },
+        "1530": {
+            "jp": "潜水カ級",
+            "en": "Ka-Class Submarine"
+        },
+        "1531": {
+            "jp": "潜水ヨ級",
+            "en": "Yo-Class Submarine"
+        },
+        "1532": {
+            "jp": "潜水カ級",
+            "en": "Ka-Class Submarine"
+        },
+        "1533": {
+            "jp": "潜水ヨ級",
+            "en": "Yo-Class Submarine"
+        },
+        "1534": {
+            "jp": "潜水カ級",
+            "en": "Ka-Class Submarine"
+        },
+        "1535": {
+            "jp": "潜水ヨ級",
+            "en": "Yo-Class Submarine"
+        },
+        "1536": {
+            "jp": "浮遊要塞",
+            "en": "Floating Fortress"
+        },
+        "1537": {
+            "jp": "浮遊要塞",
+            "en": "Floating Fortress"
+        },
+        "1538": {
+            "jp": "浮遊要塞",
+            "en": "Floating Fortress"
+        },
+        "1539": {
+            "jp": "泊地棲鬼",
+            "en": "Anchorage Demon"
+        },
+        "1540": {
+            "jp": "泊地棲姫",
+            "en": "Anchorage Princess"
+        },
+        "1541": {
+            "jp": "戦艦タ級",
+            "en": "Ta-Class Battleship"
+        },
+        "1542": {
+            "jp": "戦艦タ級",
+            "en": "Ta-Class Battleship"
+        },
+        "1543": {
+            "jp": "戦艦タ級",
+            "en": "Ta-Class Battleship"
+        },
+        "1544": {
+            "jp": "装甲空母鬼",
+            "en": "Armored Carrier Demon"
+        },
+        "1545": {
+            "jp": "装甲空母姫",
+            "en": "Armored Carrier Princess"
+        },
+        "1546": {
+            "jp": "南方棲鬼",
+            "en": "Southern Demon"
+        },
+        "1547": {
+            "jp": "南方棲戦鬼",
+            "en": "Southern War Demon"
+        },
+        "1548": {
+            "jp": "南方棲戦姫",
+            "en": "Southern War Princess"
+        },
+        "1549": {
+            "jp": "護衛要塞",
+            "en": "Escort Fortress"
+        },
+        "1550": {
+            "jp": "護衛要塞",
+            "en": "Escort Fortress"
+        },
+        "1551": {
+            "jp": "護衛要塞",
+            "en": "Escort Fortress"
+        },
+        "1552": {
+            "jp": "駆逐ロ級",
+            "en": "Ro-Class Destroyer"
+        },
+        "1553": {
+            "jp": "駆逐ハ級",
+            "en": "Ha-Class Destroyer"
+        },
+        "1554": {
+            "jp": "軽巡ホ級",
+            "en": "Ho-Class Light Cruiser"
+        },
+        "1555": {
+            "jp": "軽巡ヘ級",
+            "en": "He-Class Light Cruiser"
+        },
+        "1556": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1557": {
+            "jp": "戦艦棲姫",
+            "en": "Battleship Princess"
+        },
+        "1558": {
+            "jp": "輸送ワ級",
+            "en": "Wa-Class Transport Ship"
+        },
+        "1559": {
+            "jp": "雷巡チ級",
+            "en": "Chi-Class Torpedo Cruiser"
+        },
+        "1560": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1561": {
+            "jp": "戦艦レ級",
+            "en": "Re-Class Battleship"
+        },
+        "1562": {
+            "jp": "戦艦レ級",
+            "en": "Re-Class Battleship"
+        },
+        "1564": {
+            "jp": "駆逐イ級",
+            "en": "I-Class Destroyer"
+        },
+        "1565": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1566": {
+            "jp": "重巡リ級改",
+            "en": "Ri-Class Heavy Cruiser Kai"
+        },
+        "1567": {
+            "jp": "戦艦ル級改",
+            "en": "Ru-Class Battleship Kai"
+        },
+        "1570": {
+            "jp": "潜水ソ級",
+            "en": "So-Class Submarine"
+        },
+        "1571": {
+            "jp": "潜水ソ級",
+            "en": "So-Class Submarine"
+        },
+        "1572": {
+            "jp": "潜水ソ級",
+            "en": "So-Class Submarine"
+        },
+        "1573": {
+            "jp": "港湾棲姫",
+            "en": "Harbour Princess"
+        },
+        "1574": {
+            "jp": "離島棲鬼",
+            "en": "Isolated Island Demon"
+        },
+        "1575": {
+            "jp": "駆逐イ級後期型",
+            "en": "I-Class Destroyer{ -}? Late Model"
+        },
+        "1576": {
+            "jp": "駆逐ロ級後期型",
+            "en": "Ro-Class Destroyer{ -}? Late Model"
+        },
+        "1577": {
+            "jp": "駆逐ハ級後期型",
+            "en": "Ha-Class Destroyer{ -}? Late Model"
+        },
+        "1578": {
+            "jp": "駆逐ニ級後期型",
+            "en": "Ni-Class Destroyer{ -}? Late Model"
+        },
+        "1579": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1581": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1582": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1583": {
+            "jp": "中間棲姫",
+            "en": "Midway Princess"
+        },
+        "1584": {
+            "jp": "中間棲姫",
+            "en": "Midway Princess"
+        },
+        "1585": {
+            "jp": "空母棲鬼",
+            "en": "Aircraft Carrier Demon"
+        },
+        "1586": {
+            "jp": "空母棲姫",
+            "en": "Aircraft Carrier Princess"
+        },
+        "1587": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1588": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1589": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1590": {
+            "jp": "北方棲姫",
+            "en": "Northern Princess"
+        },
+        "1591": {
+            "jp": "軽巡ツ級",
+            "en": "Tsu-Class Light Cruiser"
+        },
+        "1592": {
+            "jp": "軽巡ツ級",
+            "en": "Tsu-Class Light Cruiser"
+        },
+        "1594": {
+            "jp": "重巡ネ級",
+            "en": "Ne-Class Heavy Cruiser"
+        },
+        "1595": {
+            "jp": "重巡ネ級",
+            "en": "Ne-Class Heavy Cruiser"
+        },
+        "1597": {
+            "jp": "駆逐棲姫",
+            "en": "Destroyer Princess"
+        },
+        "1598": {
+            "jp": "駆逐棲姫",
+            "en": "Destroyer Princess"
+        },
+        "1599": {
+            "jp": "空母水鬼",
+            "en": "Aircraft Carrier Water Demon"
+        },
+        "1600": {
+            "jp": "空母水鬼",
+            "en": "Aircraft Carrier Water Demon"
+        },
+        "1601": {
+            "jp": "軽巡棲鬼",
+            "en": "Light Cruiser Demon"
+        },
+        "1602": {
+            "jp": "軽巡棲鬼",
+            "en": "Light Cruiser Demon"
+        },
+        "1603": {
+            "jp": "戦艦水鬼",
+            "en": "Battleship Water Demon"
+        },
+        "1604": {
+            "jp": "戦艦水鬼",
+            "en": "Battleship Water Demon"
+        },
+        "1605": {
+            "jp": "港湾水鬼",
+            "en": "Harbour Water Demon"
+        },
+        "1606": {
+            "jp": "港湾水鬼",
+            "en": "Harbour Water Demon"
+        },
+        "1607": {
+            "jp": "港湾水鬼",
+            "en": "Harbour Water Demon"
+        },
+        "1608": {
+            "jp": "港湾水鬼",
+            "en": "Harbour Water Demon"
+        },
+        "1609": {
+            "jp": "泊地水鬼",
+            "en": "Anchorage Water Demon"
+        },
+        "1610": {
+            "jp": "泊地水鬼",
+            "en": "Anchorage Water Demon"
+        },
+        "1611": {
+            "jp": "泊地水鬼",
+            "en": "Anchorage Water Demon"
+        },
+        "1612": {
+            "jp": "泊地水鬼",
+            "en": "Anchorage Water Demon"
+        },
+        "1613": {
+            "jp": "港湾棲姫",
+            "en": "Harbour Princess"
+        },
+        "1614": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1615": {
+            "jp": "空母ヲ級",
+            "en": "Wo-Class Standard Carrier"
+        },
+        "1616": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1617": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1618": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1619": {
+            "jp": "空母棲鬼",
+            "en": "Aircraft Carrier Demon"
+        },
+        "1620": {
+            "jp": "空母棲姫",
+            "en": "Aircraft Carrier Princess"
+        },
+        "1621": {
+            "jp": "駆逐イ級後期型",
+            "en": "I-Class Destroyer{ -}? Late Model"
+        },
+        "1622": {
+            "jp": "駆逐ロ級後期型",
+            "en": "Ro-Class Destroyer{ -}? Late Model"
+        },
+        "1623": {
+            "jp": "駆逐ハ級後期型",
+            "en": "Ha-Class Destroyer{ -}? Late Model"
+        },
+        "1624": {
+            "jp": "駆逐ニ級後期型",
+            "en": "Ni-Class Destroyer{ -}? Late Model"
+        },
+        "1625": {
+            "jp": "水母棲姫",
+            "en": "Seaplane Tender Princess"
+        },
+        "1626": {
+            "jp": "水母棲姫",
+            "en": "Seaplane Tender Princess"
+        },
+        "1627": {
+            "jp": "水母棲姫",
+            "en": "Seaplane Tender Princess"
+        },
+        "1628": {
+            "jp": "防空棲姫",
+            "en": "Air Defense Princess"
+        },
+        "1629": {
+            "jp": "防空棲姫",
+            "en": "Air Defense Princess"
+        },
+        "1630": {
+            "jp": "防空棲姫",
+            "en": "Air Defense Princess"
+        },
+        "1631": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1632": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1633": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1634": {
+            "jp": "離島棲鬼",
+            "en": "Isolated Island Demon"
+        },
+        "1635": {
+            "jp": "離島棲鬼",
+            "en": "Isolated Island Demon"
+        },
+        "1636": {
+            "jp": "離島棲鬼",
+            "en": "Isolated Island Demon"
+        },
+        "1637": {
+            "jp": "PT小鬼群",
+            "en": "PT Imp Pack"
+        },
+        "1638": {
+            "jp": "PT小鬼群",
+            "en": "PT Imp Pack"
+        },
+        "1639": {
+            "jp": "PT小鬼群",
+            "en": "PT Imp Pack"
+        },
+        "1640": {
+            "jp": "PT小鬼群",
+            "en": "PT Imp Pack"
+        },
+        "1641": {
+            "jp": "軽巡棲姫",
+            "en": "Light Cruiser Princess"
+        },
+        "1642": {
+            "jp": "軽巡棲姫",
+            "en": "Light Cruiser Princess"
+        },
+        "1643": {
+            "jp": "軽巡棲姫",
+            "en": "Light Cruiser Princess"
+        },
+        "1644": {
+            "jp": "潜水棲姫",
+            "en": "Submarine Princess"
+        },
+        "1645": {
+            "jp": "潜水棲姫",
+            "en": "Submarine Princess"
+        },
+        "1646": {
+            "jp": "潜水棲姫",
+            "en": "Submarine Princess"
+        },
+        "1647": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1648": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1649": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1650": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1651": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1652": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1653": {
+            "jp": "集積地棲姫",
+            "en": "Supply Depot Princess"
+        },
+        "1654": {
+            "jp": "集積地棲姫",
+            "en": "Supply Depot Princess"
+        },
+        "1655": {
+            "jp": "集積地棲姫",
+            "en": "Supply Depot Princess"
+        },
+        "1656": {
+            "jp": "集積地棲姫-壊",
+            "en": "Supply Depot Princess (Damaged)"
+        },
+        "1657": {
+            "jp": "集積地棲姫-壊",
+            "en": "Supply Depot Princess (Damaged)"
+        },
+        "1658": {
+            "jp": "集積地棲姫-壊",
+            "en": "Supply Depot Princess (Damaged)"
+        },
+        "1659": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1660": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1661": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1662": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1663": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1664": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1665": {
+            "jp": "砲台小鬼",
+            "en": "Artillery Imp"
+        },
+        "1666": {
+            "jp": "砲台小鬼",
+            "en": "Artillery Imp"
+        },
+        "1667": {
+            "jp": "砲台小鬼",
+            "en": "Artillery Imp"
+        },
+        "1668": {
+            "jp": "離島棲姫",
+            "en": "Isolated Island Princess"
+        },
+        "1669": {
+            "jp": "離島棲姫",
+            "en": "Isolated Island Princess"
+        },
+        "1670": {
+            "jp": "離島棲姫",
+            "en": "Isolated Island Princess"
+        },
+        "1671": {
+            "jp": "離島棲姫",
+            "en": "Isolated Island Princess"
+        },
+        "1672": {
+            "jp": "離島棲姫",
+            "en": "Isolated Island Princess"
+        },
+        "1673": {
+            "jp": "駆逐古鬼",
+            "en": "Old Destroyer Demon"
+        },
+        "1674": {
+            "jp": "駆逐古鬼",
+            "en": "Old Destroyer Demon"
+        },
+        "1675": {
+            "jp": "駆逐古鬼",
+            "en": "Old Destroyer Demon"
+        },
+        "1676": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1677": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1678": {
+            "jp": "駆逐水鬼",
+            "en": "Destroyer Water Demon"
+        },
+        "1679": {
+            "jp": "リコリス棲姫",
+            "en": "Lycoris Princess"
+        },
+        "1680": {
+            "jp": "リコリス棲姫",
+            "en": "Lycoris Princess"
+        },
+        "1681": {
+            "jp": "リコリス棲姫",
+            "en": "Lycoris Princess"
+        },
+        "1682": {
+            "jp": "リコリス棲姫",
+            "en": "Lycoris Princess"
+        },
+        "1683": {
+            "jp": "リコリス棲姫",
+            "en": "Lycoris Princess"
+        },
+        "1684": {
+            "jp": "中枢棲姫",
+            "en": "Central Princess"
+        },
+        "1685": {
+            "jp": "中枢棲姫",
+            "en": "Central Princess"
+        },
+        "1686": {
+            "jp": "中枢棲姫",
+            "en": "Central Princess"
+        },
+        "1687": {
+            "jp": "中枢棲姫-壊",
+            "en": "Central Princess (Damaged)"
+        },
+        "1688": {
+            "jp": "中枢棲姫-壊",
+            "en": "Central Princess (Damaged)"
+        },
+        "1689": {
+            "jp": "中枢棲姫-壊",
+            "en": "Central Princess (Damaged)"
+        },
+        "1690": {
+            "jp": "駆逐古姫",
+            "en": "Old Destroyer Princess"
+        },
+        "1691": {
+            "jp": "駆逐古姫",
+            "en": "Old Destroyer Princess"
+        },
+        "1692": {
+            "jp": "駆逐古姫",
+            "en": "Old Destroyer Princess"
+        },
+        "1693": {
+            "jp": "潜水夏姫",
+            "en": "Summer Submarine Princess"
+        },
+        "1694": {
+            "jp": "潜水夏姫",
+            "en": "Summer Submarine Princess"
+        },
+        "1695": {
+            "jp": "潜水夏姫",
+            "en": "Summer Submarine Princess"
+        },
+        "1696": {
+            "jp": "戦艦夏姫",
+            "en": "Summer Battleship Princess"
+        },
+        "1697": {
+            "jp": "戦艦夏姫",
+            "en": "Summer Battleship Princess"
+        },
+        "1698": {
+            "jp": "戦艦夏姫",
+            "en": "Summer Battleship Princess"
+        },
+        "1699": {
+            "jp": "港湾夏姫",
+            "en": "Summer Harbor Princess"
+        },
+        "1700": {
+            "jp": "港湾夏姫",
+            "en": "Summer Harbor Princess"
+        },
+        "1701": {
+            "jp": "港湾夏姫",
+            "en": "Summer Harbor Princess"
+        },
+        "1702": {
+            "jp": "港湾夏姫-壊",
+            "en": "Summer Harbor Princess (Damaged)"
+        },
+        "1703": {
+            "jp": "港湾夏姫-壊",
+            "en": "Summer Harbor Princess (Damaged)"
+        },
+        "1704": {
+            "jp": "港湾夏姫-壊",
+            "en": "Summer Harbor Princess (Damaged)"
+        },
+        "1705": {
+            "jp": "重巡夏姫",
+            "en": "Summer Heavy Cruiser Princess"
+        },
+        "1706": {
+            "jp": "重巡夏姫",
+            "en": "Summer Heavy Cruiser Princess"
+        },
+        "1707": {
+            "jp": "重巡夏姫",
+            "en": "Summer Heavy Cruiser Princess"
+        },
+        "1708": {
+            "jp": "水母水姫",
+            "en": "Seaplane Tender Water Princess"
+        },
+        "1709": {
+            "jp": "水母水姫",
+            "en": "Seaplane Tender Water Princess"
+        },
+        "1710": {
+            "jp": "水母水姫",
+            "en": "Seaplane Tender Water Princess"
+        },
+        "1711": {
+            "jp": "深海海月姫",
+            "en": "Abyssal Jellyfish Princess"
+        },
+        "1712": {
+            "jp": "深海海月姫",
+            "en": "Abyssal Jellyfish Princess"
+        },
+        "1713": {
+            "jp": "深海海月姫",
+            "en": "Abyssal Jellyfish Princess"
+        },
+        "1714": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1715": {
+            "jp": "空母ヲ級改",
+            "en": "Wo-Class Standard Carrier Kai"
+        },
+        "1716": {
+            "jp": "深海双子棲姫",
+            "en": "Abyssal Twin Princesses"
+        },
+        "1717": {
+            "jp": "深海双子棲姫",
+            "en": "Abyssal Twin Princesses"
+        },
+        "1718": {
+            "jp": "深海双子棲姫",
+            "en": "Abyssal Twin Princesses"
+        },
+        "1719": {
+            "jp": "深海双子棲姫-壊",
+            "en": "Abyssal Twin Princesses (Damaged)"
+        },
+        "1720": {
+            "jp": "深海双子棲姫-壊",
+            "en": "Abyssal Twin Princesses (Damaged)"
+        },
+        "1721": {
+            "jp": "深海双子棲姫-壊",
+            "en": "Abyssal Twin Princesses (Damaged)"
+        },
+        "1722": {
+            "jp": "護衛棲姫",
+            "en": "Escort Princess"
+        },
+        "1723": {
+            "jp": "護衛棲姫",
+            "en": "Escort Princess"
+        },
+        "1724": {
+            "jp": "護衛棲姫",
+            "en": "Escort Princess"
+        },
+        "1725": {
+            "jp": "北端上陸姫",
+            "en": "Northernmost Landing Princess"
+        },
+        "1726": {
+            "jp": "北端上陸姫",
+            "en": "Northernmost Landing Princess"
+        },
+        "1727": {
+            "jp": "北端上陸姫",
+            "en": "Northernmost Landing Princess"
+        },
+        "1728": {
+            "jp": "北方水姫",
+            "en": "Northern Water Princess"
+        },
+        "1729": {
+            "jp": "北方水姫",
+            "en": "Northern Water Princess"
+        },
+        "1730": {
+            "jp": "北方水姫",
+            "en": "Northern Water Princess"
+        },
+        "1731": {
+            "jp": "北方水姫-壊",
+            "en": "Northern Water Princess (Damaged)"
+        },
+        "1732": {
+            "jp": "北方水姫-壊",
+            "en": "Northern Water Princess (Damaged)"
+        },
+        "1733": {
+            "jp": "北方水姫-壊",
+            "en": "Northern Water Princess (Damaged)"
+        },
+        "1734": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1735": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1736": {
+            "jp": "潜水新棲姫",
+            "en": "New Submarine Princess"
+        },
+        "1737": {
+            "jp": "潜水新棲姫",
+            "en": "New Submarine Princess"
+        },
+        "1738": {
+            "jp": "潜水新棲姫",
+            "en": "New Submarine Princess"
+        },
+        "1739": {
+            "jp": "駆逐ナ級",
+            "en": "Na-Class Destroyer"
+        },
+        "1740": {
+            "jp": "駆逐ナ級",
+            "en": "Na-Class Destroyer"
+        },
+        "1741": {
+            "jp": "駆逐ナ級",
+            "en": "Na-Class Destroyer"
+        },
+        "1742": {
+            "jp": "駆逐ナ級後期型",
+            "en": "Na-Class Destroyer{ -}? Late Model"
+        },
+        "1743": {
+            "jp": "駆逐ナ級後期型",
+            "en": "Na-Class Destroyer{ -}? Late Model"
+        },
+        "1744": {
+            "jp": "駆逐ナ級後期型",
+            "en": "Na-Class Destroyer{ -}? Late Model"
+        },
+        "1745": {
+            "jp": "戦艦仏棲姫",
+            "en": "French Battleship Princess"
+        },
+        "1746": {
+            "jp": "戦艦仏棲姫",
+            "en": "French Battleship Princess"
+        },
+        "1747": {
+            "jp": "戦艦仏棲姫",
+            "en": "French Battleship Princess"
+        },
+        "1748": {
+            "jp": "戦艦仏棲姫-壊",
+            "en": "French Battleship Princess (Damaged)"
+        },
+        "1749": {
+            "jp": "戦艦仏棲姫-壊",
+            "en": "French Battleship Princess (Damaged)"
+        },
+        "1750": {
+            "jp": "戦艦仏棲姫-壊",
+            "en": "French Battleship Princess (Damaged)"
+        },
+        "1751": {
+            "jp": "空母夏鬼",
+            "en": "Summer Aircraft Carrier Demon"
+        },
+        "1752": {
+            "jp": "空母夏姫",
+            "en": "Summer Aircraft Carrier Princess"
+        },
+        "1753": {
+            "jp": "集積地夏姫",
+            "en": "Summer Supply Depot Princess"
+        },
+        "1754": {
+            "jp": "集積地夏姫",
+            "en": "Summer Supply Depot Princess"
+        },
+        "1755": {
+            "jp": "欧州棲姫",
+            "en": "European Princess"
+        },
+        "1756": {
+            "jp": "欧州棲姫",
+            "en": "European Princess"
+        },
+        "1757": {
+            "jp": "欧州棲姫",
+            "en": "European Princess"
+        },
+        "1758": {
+            "jp": "欧州棲姫-壊",
+            "en": "European Princess (Damaged)"
+        },
+        "1759": {
+            "jp": "欧州棲姫-壊",
+            "en": "European Princess (Damaged)"
+        },
+        "1760": {
+            "jp": "欧州棲姫-壊",
+            "en": "European Princess (Damaged)"
+        },
+        "1761": {
+            "jp": "重巡ネ級",
+            "en": "Ne-Class Heavy Cruiser"
+        },
+        "1762": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1763": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1764": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1765": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1766": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1767": {
+            "jp": "海峡夜棲姫",
+            "en": "Night Strait Princesses"
+        },
+        "1768": {
+            "jp": "海峡夜棲姫",
+            "en": "Night Strait Princesses"
+        },
+        "1769": {
+            "jp": "海峡夜棲姫",
+            "en": "Night Strait Princesses"
+        },
+        "1770": {
+            "jp": "海峡夜棲姫-壊",
+            "en": "Night Strait Princesses (Damaged)"
+        },
+        "1771": {
+            "jp": "海峡夜棲姫-壊",
+            "en": "Night Strait Princesses (Damaged)"
+        },
+        "1772": {
+            "jp": "海峡夜棲姫-壊",
+            "en": "Night Strait Princesses (Damaged)"
+        },
+        "1773": {
+            "jp": "防空埋護姫",
+            "en": "Entombed Anti-Air Guardian Princess"
+        },
+        "1774": {
+            "jp": "防空埋護姫",
+            "en": "Entombed Anti-Air Guardian Princess"
+        },
+        "1775": {
+            "jp": "防空埋護姫",
+            "en": "Entombed Anti-Air Guardian Princess"
+        },
+        "1776": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1777": {
+            "jp": "軽母ヌ級",
+            "en": "Nu-Class Light Carrier"
+        },
+        "1778": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1779": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1780": {
+            "jp": "軽母ヌ級改",
+            "en": "Nu-Class Light Carrier Kai"
+        },
+        "1781": {
+            "jp": "空母棲姫",
+            "en": "Aircraft Carrier Princess"
+        },
+        "1782": {
+            "jp": "空母棲姫",
+            "en": "Aircraft Carrier Princess"
+        },
+        "1783": {
+            "jp": "護衛棲水姫",
+            "en": "Escort Water Princess"
+        },
+        "1784": {
+            "jp": "護衛棲水姫",
+            "en": "Escort Water Princess"
+        },
+        "1785": {
+            "jp": "護衛棲水姫",
+            "en": "Escort Water Princess"
+        },
+        "1786": {
+            "jp": "護衛棲水姫-壊",
+            "en": "Escort Water Princess (Damaged)"
+        },
+        "1787": {
+            "jp": "護衛棲水姫-壊",
+            "en": "Escort Water Princess (Damaged)"
+        },
+        "1788": {
+            "jp": "護衛棲水姫-壊",
+            "en": "Escort Water Princess (Damaged)"
+        },
+        "1789": {
+            "jp": "潜水新棲姫",
+            "en": "New Submarine Princess"
+        },
+        "1790": {
+            "jp": "戦艦棲姫改",
+            "en": "Battleship Princess Kai"
+        },
+        "1791": {
+            "jp": "戦艦棲姫改",
+            "en": "Battleship Princess Kai"
+        },
+        "1792": {
+            "jp": "戦艦棲姫改",
+            "en": "Battleship Princess Kai"
+        },
+        "1793": {
+            "jp": "戦艦水鬼改",
+            "en": "Battleship Water Demon Kai"
+        },
+        "1794": {
+            "jp": "戦艦水鬼改",
+            "en": "Battleship Water Demon Kai"
+        },
+        "1795": {
+            "jp": "戦艦水鬼改",
+            "en": "Battleship Water Demon Kai"
+        },
+        "1796": {
+            "jp": "戦艦水鬼改-壊",
+            "en": "Battleship Water Demon Kai (Damaged)"
+        },
+        "1797": {
+            "jp": "戦艦水鬼改-壊",
+            "en": "Battleship Water Demon Kai (Damaged)"
+        },
+        "1798": {
+            "jp": "戦艦水鬼改-壊",
+            "en": "Battleship Water Demon Kai (Damaged)"
+        },
+        "1799": {
+            "jp": "深海鶴棲姫",
+            "en": "Abyssal Crane Princess"
+        },
+        "1800": {
+            "jp": "深海鶴棲姫",
+            "en": "Abyssal Crane Princess"
+        },
+        "1801": {
+            "jp": "深海鶴棲姫",
+            "en": "Abyssal Crane Princess"
+        },
+        "1802": {
+            "jp": "深海鶴棲姫-壊",
+            "en": "Abyssal Crane Princess (Damaged)"
+        },
+        "1803": {
+            "jp": "深海鶴棲姫-壊",
+            "en": "Abyssal Crane Princess (Damaged)"
+        },
+        "1804": {
+            "jp": "深海鶴棲姫-壊",
+            "en": "Abyssal Crane Princess (Damaged)"
+        },
+        "1805": {
+            "jp": "潜水新棲姫 バカンスmode",
+            "en": "New Submarine Princess Vacation Mode"
+        },
+        "1806": {
+            "jp": "潜水新棲姫 バカンスmode",
+            "en": "New Submarine Princess Vacation Mode"
+        },
+        "1807": {
+            "jp": "潜水新棲姫 バカンスmode",
+            "en": "New Submarine Princess Vacation Mode"
+        },
+        "1808": {
+            "jp": "潜水新棲姫 バカンスmode",
+            "en": "New Submarine Princess Vacation Mode"
+        },
+        "1809": {
+            "jp": "集積地棲姫 バカンスmode",
+            "en": "Supply Depot Princess Vacation Mode"
+        },
+        "1810": {
+            "jp": "集積地棲姫 バカンスmode",
+            "en": "Supply Depot Princess Vacation Mode"
+        },
+        "1811": {
+            "jp": "集積地棲姫 バカンスmode",
+            "en": "Supply Depot Princess Vacation Mode"
+        },
+        "1812": {
+            "jp": "集積地棲姫 バカンスmode-壊",
+            "en": "Supply Depot Princess Vacation Mode (Damaged)"
+        },
+        "1813": {
+            "jp": "集積地棲姫 バカンスmode-壊",
+            "en": "Supply Depot Princess Vacation Mode (Damaged)"
+        },
+        "1814": {
+            "jp": "集積地棲姫 バカンスmode-壊",
+            "en": "Supply Depot Princess Vacation Mode (Damaged)"
+        },
+        "1815": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1816": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1817": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1818": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1819": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1820": {
+            "jp": "泊地水鬼 バカンスmode",
+            "en": "Anchorage Water Demon Vacation Mode"
+        },
+        "1821": {
+            "jp": "護衛独還姫",
+            "en": "German Escort Princess"
+        },
+        "1822": {
+            "jp": "護衛独還姫",
+            "en": "German Escort Princess"
+        },
+        "1823": {
+            "jp": "護衛独還姫",
+            "en": "German Escort Princess"
+        },
+        "1824": {
+            "jp": "護衛独還姫-壊",
+            "en": "German Escort Princess (Damaged)"
+        },
+        "1825": {
+            "jp": "護衛独還姫-壊",
+            "en": "German Escort Princess (Damaged)"
+        },
+        "1826": {
+            "jp": "護衛独還姫-壊",
+            "en": "German Escort Princess (Damaged)"
+        },
+        "1827": {
+            "jp": "船渠棲姫",
+            "en": "Dock Princess"
+        },
+        "1828": {
+            "jp": "船渠棲姫",
+            "en": "Dock Princess"
+        },
+        "1829": {
+            "jp": "船渠棲姫",
+            "en": "Dock Princess"
+        },
+        "1830": {
+            "jp": "船渠棲姫-壊",
+            "en": "Dock Princess (Damaged)"
+        },
+        "1831": {
+            "jp": "船渠棲姫-壊",
+            "en": "Dock Princess (Damaged)"
+        },
+        "1832": {
+            "jp": "船渠棲姫-壊",
+            "en": "Dock Princess (Damaged)"
+        },
+        "1834": {
+            "jp": "戦艦仏棲姫 バカンスmode",
+            "en": "French Battleship Princess Vacation Mode"
+        },
+        "1835": {
+            "jp": "戦艦仏棲姫 バカンスmode",
+            "en": "French Battleship Princess Vacation Mode"
+        },
+        "1836": {
+            "jp": "戦艦仏棲姫 バカンスmode",
+            "en": "French Battleship Princess Vacation Mode"
+        },
+        "1837": {
+            "jp": "戦艦仏棲姫-壊 バカンスmode",
+            "en": "French Battleship Princess (Damaged) Vacation Mode"
+        },
+        "1838": {
+            "jp": "戦艦仏棲姫-壊 バカンスmode",
+            "en": "French Battleship Princess (Damaged) Vacation Mode"
+        },
+        "1839": {
+            "jp": "戦艦仏棲姫-壊 バカンスmode",
+            "en": "French Battleship Princess (Damaged) Vacation Mode"
+        },
+        "1840": {
+            "jp": "欧州水姫",
+            "en": "European Water Princess"
+        },
+        "1841": {
+            "jp": "欧州水姫",
+            "en": "European Water Princess"
+        },
+        "1842": {
+            "jp": "欧州水姫",
+            "en": "European Water Princess"
+        },
+        "1843": {
+            "jp": "欧州水姫-壊",
+            "en": "European Water Princess (Damaged)"
+        },
+        "1844": {
+            "jp": "欧州水姫-壊",
+            "en": "European Water Princess (Damaged)"
+        },
+        "1845": {
+            "jp": "欧州水姫-壊",
+            "en": "European Water Princess (Damaged)"
+        },
+        "1846": {
+            "jp": "深海雨雲姫",
+            "en": "Abyssal Nimbus Princess"
+        },
+        "1847": {
+            "jp": "深海雨雲姫",
+            "en": "Abyssal Nimbus Princess"
+        },
+        "1848": {
+            "jp": "深海雨雲姫",
+            "en": "Abyssal Nimbus Princess"
+        },
+        "1849": {
+            "jp": "深海雨雲姫-壊",
+            "en": "Abyssal Nimbus Princess (Damaged)"
+        },
+        "1850": {
+            "jp": "深海雨雲姫-壊",
+            "en": "Abyssal Nimbus Princess (Damaged)"
+        },
+        "1851": {
+            "jp": "深海雨雲姫-壊",
+            "en": "Abyssal Nimbus Princess (Damaged)"
+        },
+        "1852": {
+            "jp": "深海日棲姫",
+            "en": "Abyssal Sun Princess"
+        },
+        "1853": {
+            "jp": "深海日棲姫",
+            "en": "Abyssal Sun Princess"
+        },
+        "1854": {
+            "jp": "深海日棲姫",
+            "en": "Abyssal Sun Princess"
+        },
+        "1855": {
+            "jp": "深海日棲姫-壊",
+            "en": "Abyssal Sun Princess (Damaged)"
+        },
+        "1856": {
+            "jp": "深海日棲姫-壊",
+            "en": "Abyssal Sun Princess (Damaged)"
+        },
+        "1857": {
+            "jp": "深海日棲姫-壊",
+            "en": "Abyssal Sun Princess (Damaged)"
+        },
+        "1858": {
+            "jp": "駆逐ニ級改",
+            "en": "Ni-Class Destroyer Kai"
+        },
+        "1859": {
+            "jp": "駆逐ニ級改後期型",
+            "en": "Ni-Class Destroyer Kai{ -}? Late Model"
+        },
+        "1860": {
+            "jp": "駆逐ニ級改後期型",
+            "en": "Ni-Class Destroyer Kai{ -}? Late Model"
+        },
+        "1861": {
+            "jp": "駆逐ニ級改後期型",
+            "en": "Ni-Class Destroyer Kai{ -}? Late Model"
+        },
+        "1862": {
+            "jp": "軽巡ツ級",
+            "en": "Tsu-Class Light Cruiser"
+        },
+        "1863": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1864": {
+            "jp": "重巡棲姫",
+            "en": "Heavy Cruiser Princess"
+        },
+        "1865": {
+            "jp": "北方棲妹",
+            "en": "Northern Little Sister"
+        },
+        "1866": {
+            "jp": "北方棲妹",
+            "en": "Northern Little Sister"
+        },
+        "1867": {
+            "jp": "北方棲妹",
+            "en": "Northern Little Sister"
+        },
+        "1868": {
+            "jp": "北方棲妹-壊",
+            "en": "Northern Little Sister (Damaged)"
+        },
+        "1869": {
+            "jp": "北方棲妹-壊",
+            "en": "Northern Little Sister (Damaged)"
+        },
+        "1870": {
+            "jp": "北方棲妹-壊",
+            "en": "Northern Little Sister (Damaged)"
+        },
+        "1871": {
+            "jp": "太平洋深海棲姫",
+            "en": "Abyssal Pacific Princess"
+        },
+        "1872": {
+            "jp": "太平洋深海棲姫",
+            "en": "Abyssal Pacific Princess"
+        },
+        "1873": {
+            "jp": "太平洋深海棲姫",
+            "en": "Abyssal Pacific Princess"
+        },
+        "1874": {
+            "jp": "太平洋深海棲姫-壊",
+            "en": "Abyssal Pacific Princess (Damaged)"
+        },
+        "1875": {
+            "jp": "太平洋深海棲姫-壊",
+            "en": "Abyssal Pacific Princess (Damaged)"
+        },
+        "1876": {
+            "jp": "太平洋深海棲姫-壊",
+            "en": "Abyssal Pacific Princess (Damaged)"
+        },
+        "1877": {
+            "jp": "深海地中海棲姫",
+            "en": "Abyssal Mediterranean Princess"
+        },
+        "1878": {
+            "jp": "深海地中海棲姫",
+            "en": "Abyssal Mediterranean Princess"
+        },
+        "1879": {
+            "jp": "深海地中海棲姫",
+            "en": "Abyssal Mediterranean Princess"
+        },
+        "1880": {
+            "jp": "深海地中海棲姫-壊",
+            "en": "Abyssal Mediterranean Princess (Damaged)"
+        },
+        "1881": {
+            "jp": "深海地中海棲姫-壊",
+            "en": "Abyssal Mediterranean Princess (Damaged)"
+        },
+        "1882": {
+            "jp": "深海地中海棲姫-壊",
+            "en": "Abyssal Mediterranean Princess (Damaged)"
+        },
+        "1883": {
+            "jp": "アンツィオ沖棲姫",
+            "en": "Anzio Princess"
+        },
+        "1884": {
+            "jp": "アンツィオ沖棲姫",
+            "en": "Anzio Princess"
+        },
+        "1885": {
+            "jp": "アンツィオ沖棲姫",
+            "en": "Anzio Princess"
+        },
+        "1886": {
+            "jp": "アンツィオ沖棲姫-壊",
+            "en": "Anzio Princess (Damaged)"
+        },
+        "1887": {
+            "jp": "アンツィオ沖棲姫-壊",
+            "en": "Anzio Princess (Damaged)"
+        },
+        "1888": {
+            "jp": "アンツィオ沖棲姫-壊",
+            "en": "Anzio Princess (Damaged)"
+        },
+        "1889": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1890": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1891": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1892": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1893": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1894": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "1895": {
+            "jp": "重巡ネ級改",
+            "en": "Ne-Class Heavy Cruiser Kai"
+        },
+        "1896": {
+            "jp": "重巡ネ級改",
+            "en": "Ne-Class Heavy Cruiser Kai"
+        },
+        "1897": {
+            "jp": "重巡ネ級改",
+            "en": "Ne-Class Heavy Cruiser Kai"
+        },
+        "1898": {
+            "jp": "バタビア沖棲姫",
+            "en": "Batavia Princess"
+        },
+        "1899": {
+            "jp": "バタビア沖棲姫",
+            "en": "Batavia Princess"
+        },
+        "1900": {
+            "jp": "バタビア沖棲姫",
+            "en": "Batavia Princess"
+        },
+        "1901": {
+            "jp": "バタビア沖棲姫-壊",
+            "en": "Batavia Princess (Damaged)"
+        },
+        "1902": {
+            "jp": "バタビア沖棲姫-壊",
+            "en": "Batavia Princess (Damaged)"
+        },
+        "1903": {
+            "jp": "バタビア沖棲姫-壊",
+            "en": "Batavia Princess (Damaged)"
+        },
+        "1904": {
+            "jp": "軽巡ヘ級改",
+            "en": "He-Class Light Cruiser Kai"
+        },
+        "1905": {
+            "jp": "軽巡ヘ級改",
+            "en": "He-Class Light Cruiser Kai"
+        },
+        "1906": {
+            "jp": "空母棲姫改",
+            "en": "Aircraft Carrier Princess Kai"
+        },
+        "1907": {
+            "jp": "空母棲姫改",
+            "en": "Aircraft Carrier Princess Kai"
+        },
+        "1908": {
+            "jp": "空母棲姫改",
+            "en": "Aircraft Carrier Princess Kai"
+        },
+        "1909": {
+            "jp": "防空巡棲姫",
+            "en": "Anti-Air Cruiser Princess"
+        },
+        "1910": {
+            "jp": "防空巡棲姫",
+            "en": "Anti-Air Cruiser Princess"
+        },
+        "1911": {
+            "jp": "防空巡棲姫",
+            "en": "Anti-Air Cruiser Princess"
+        },
+        "1912": {
+            "jp": "防空巡棲姫-壊",
+            "en": "Anti-Air Cruiser Princess (Damaged)"
+        },
+        "1913": {
+            "jp": "防空巡棲姫-壊",
+            "en": "Anti-Air Cruiser Princess (Damaged)"
+        },
+        "1914": {
+            "jp": "防空巡棲姫-壊",
+            "en": "Anti-Air Cruiser Princess (Damaged)"
+        },
+        "1915": {
+            "jp": "潜水棲姫改",
+            "en": "Submarine Princess Kai"
+        },
+        "1916": {
+            "jp": "潜水棲姫改",
+            "en": "Submarine Princess Kai"
+        },
+        "1917": {
+            "jp": "潜水棲姫改",
+            "en": "Submarine Princess Kai"
+        },
+        "1918": {
+            "jp": "潜水棲姫改-壊",
+            "en": "Submarine Princess Kai (Damaged)"
+        },
+        "1919": {
+            "jp": "潜水棲姫改-壊",
+            "en": "Submarine Princess Kai (Damaged)"
+        },
+        "1920": {
+            "jp": "潜水棲姫改-壊",
+            "en": "Submarine Princess Kai (Damaged)"
+        },
+        "1921": {
+            "jp": "集積地棲姫II",
+            "en": "Supply Depot Princess B"
+        },
+        "1922": {
+            "jp": "集積地棲姫II",
+            "en": "Supply Depot Princess B"
+        },
+        "1923": {
+            "jp": "集積地棲姫II",
+            "en": "Supply Depot Princess B"
+        },
+        "1924": {
+            "jp": "集積地棲姫II-壊",
+            "en": "Supply Depot Princess B (Damaged)"
+        },
+        "1925": {
+            "jp": "集積地棲姫II-壊",
+            "en": "Supply Depot Princess B (Damaged)"
+        },
+        "1926": {
+            "jp": "集積地棲姫II-壊",
+            "en": "Supply Depot Princess B (Damaged)"
+        },
+        "1927": {
+            "jp": "深海千島棲姫",
+            "en": "Abyssal Kuriles Princess"
+        },
+        "1928": {
+            "jp": "深海千島棲姫",
+            "en": "Abyssal Kuriles Princess"
+        },
+        "1929": {
+            "jp": "深海千島棲姫",
+            "en": "Abyssal Kuriles Princess"
+        },
+        "1930": {
+            "jp": "深海千島棲姫-壊",
+            "en": "Abyssal Kuriles Princess (Damaged)"
+        },
+        "1931": {
+            "jp": "深海千島棲姫-壊",
+            "en": "Abyssal Kuriles Princess (Damaged)"
+        },
+        "1932": {
+            "jp": "深海千島棲姫-壊",
+            "en": "Abyssal Kuriles Princess (Damaged)"
+        },
+        "1933": {
+            "jp": "集積地棲姫II 夏季上陸mode",
+            "en": "Supply Depot Princess B Summer Landing Mode"
+        },
+        "1934": {
+            "jp": "集積地棲姫II 夏季上陸mode",
+            "en": "Supply Depot Princess B Summer Landing Mode"
+        },
+        "1935": {
+            "jp": "集積地棲姫II 夏季上陸mode",
+            "en": "Supply Depot Princess B Summer Landing Mode"
+        },
+        "1936": {
+            "jp": "集積地棲姫II 夏季上陸mode-壊",
+            "en": "Supply Depot Princess B Summer Landing Mode (Damaged)"
+        },
+        "1937": {
+            "jp": "集積地棲姫II 夏季上陸mode-壊",
+            "en": "Supply Depot Princess B Summer Landing Mode (Damaged)"
+        },
+        "1938": {
+            "jp": "集積地棲姫II 夏季上陸mode-壊",
+            "en": "Supply Depot Princess B Summer Landing Mode (Damaged)"
+        },
+        "1939": {
+            "jp": "五島沖海底姫",
+            "en": "Gotou Islands Seabed Princess"
+        },
+        "1940": {
+            "jp": "五島沖海底姫",
+            "en": "Gotou Islands Seabed Princess"
+        },
+        "1941": {
+            "jp": "五島沖海底姫",
+            "en": "Gotou Islands Seabed Princess"
+        },
+        "1942": {
+            "jp": "五島沖海底姫-壊",
+            "en": "Gotou Islands Seabed Princess (Damaged)"
+        },
+        "1943": {
+            "jp": "五島沖海底姫-壊",
+            "en": "Gotou Islands Seabed Princess (Damaged)"
+        },
+        "1944": {
+            "jp": "五島沖海底姫-壊",
+            "en": "Gotou Islands Seabed Princess (Damaged)"
+        },
+        "1945": {
+            "jp": "駆逐林棲姫",
+            "en": "Destroyer Forest Princess"
+        },
+        "1946": {
+            "jp": "駆逐林棲姫",
+            "en": "Destroyer Forest Princess"
+        },
+        "1947": {
+            "jp": "駆逐林棲姫",
+            "en": "Destroyer Forest Princess"
+        },
+        "1948": {
+            "jp": "駆逐林棲姫-壊",
+            "en": "Destroyer Forest Princess (Damaged)"
+        },
+        "1949": {
+            "jp": "駆逐林棲姫-壊",
+            "en": "Destroyer Forest Princess (Damaged)"
+        },
+        "1950": {
+            "jp": "駆逐林棲姫-壊",
+            "en": "Destroyer Forest Princess (Damaged)"
+        },
+        "1951": {
+            "jp": "駆逐ナ級後期型II",
+            "en": "Na-Class Destroyer{ -}? Late Model II"
+        },
+        "1952": {
+            "jp": "駆逐ナ級後期型II",
+            "en": "Na-Class Destroyer{ -}? Late Model II"
+        },
+        "1953": {
+            "jp": "重巡ネ級改 夏mode",
+            "en": "Ne-Class Heavy Cruiser Kai Summer Mode"
+        },
+        "1954": {
+            "jp": "重巡ネ級改 夏mode",
+            "en": "Ne-Class Heavy Cruiser Kai Summer Mode"
+        },
+        "1955": {
+            "jp": "重巡ネ級改 夏mode",
+            "en": "Ne-Class Heavy Cruiser Kai Summer Mode"
+        },
+        "1956": {
+            "jp": "重巡ネ級改II 夏mode",
+            "en": "Ne-Class Heavy Cruiser Kai B Summer Mode"
+        },
+        "1957": {
+            "jp": "軽巡棲姫II",
+            "en": "Light Cruiser Princess B"
+        },
+        "1958": {
+            "jp": "軽巡棲姫II",
+            "en": "Light Cruiser Princess B"
+        },
+        "1959": {
+            "jp": "軽巡棲姫II",
+            "en": "Light Cruiser Princess B"
+        },
+        "1960": {
+            "jp": "軽巡棲姫II",
+            "en": "Light Cruiser Princess B"
+        },
+        "1961": {
+            "jp": "空母夏姫",
+            "en": "Summer Aircraft Carrier Princess"
+        },
+        "1962": {
+            "jp": "空母夏姫",
+            "en": "Summer Aircraft Carrier Princess"
+        },
+        "1963": {
+            "jp": "空母夏姫",
+            "en": "Summer Aircraft Carrier Princess"
+        },
+        "1964": {
+            "jp": "空母夏姫II",
+            "en": "Summer Aircraft Carrier Princess B"
+        },
+        "1965": {
+            "jp": "南方戦艦新棲姫",
+            "en": "New Southern Battleship Princess"
+        },
+        "1966": {
+            "jp": "南方戦艦新棲姫",
+            "en": "New Southern Battleship Princess"
+        },
+        "1967": {
+            "jp": "南方戦艦新棲姫",
+            "en": "New Southern Battleship Princess"
+        },
+        "1968": {
+            "jp": "南方戦艦新棲姫-壊",
+            "en": "New Southern Battleship Princess (Damaged)"
+        },
+        "1969": {
+            "jp": "南方戦艦新棲姫-壊",
+            "en": "New Southern Battleship Princess (Damaged)"
+        },
+        "1970": {
+            "jp": "南方戦艦新棲姫-壊",
+            "en": "New Southern Battleship Princess (Damaged)"
+        },
+        "1971": {
+            "jp": "南太平洋空母棲姫",
+            "en": "South Pacific Aircraft Carrier Princess"
+        },
+        "1972": {
+            "jp": "南太平洋空母棲姫",
+            "en": "South Pacific Aircraft Carrier Princess"
+        },
+        "1973": {
+            "jp": "南太平洋空母棲姫",
+            "en": "South Pacific Aircraft Carrier Princess"
+        },
+        "1974": {
+            "jp": "南太平洋空母棲姫-壊",
+            "en": "South Pacific Aircraft Carrier Princess (Damaged)"
+        },
+        "1975": {
+            "jp": "南太平洋空母棲姫-壊",
+            "en": "South Pacific Aircraft Carrier Princess (Damaged)"
+        },
+        "1976": {
+            "jp": "南太平洋空母棲姫-壊",
+            "en": "South Pacific Aircraft Carrier Princess (Damaged)"
+        },
+        "1977": {
+            "jp": "潜水夏姫II",
+            "en": "Summer Submarine Princess B"
+        },
+        "1978": {
+            "jp": "潜水夏姫II",
+            "en": "Summer Submarine Princess B"
+        },
+        "1979": {
+            "jp": "戦艦新棲姫",
+            "en": "New Battleship Princess"
+        },
+        "1980": {
+            "jp": "戦艦新棲姫",
+            "en": "New Battleship Princess"
+        },
+        "1981": {
+            "jp": "戦艦新棲姫",
+            "en": "New Battleship Princess"
+        },
+        "1982": {
+            "jp": "戦艦新棲姫-壊",
+            "en": "New Battleship Princess (Damaged)"
+        },
+        "1983": {
+            "jp": "戦艦新棲姫-壊",
+            "en": "New Battleship Princess (Damaged)"
+        },
+        "1984": {
+            "jp": "戦艦新棲姫-壊",
+            "en": "New Battleship Princess (Damaged)"
+        },
+        "1985": {
+            "jp": "潜水棲姫改II",
+            "en": "Submarine Princess Kai B"
+        },
+        "1986": {
+            "jp": "潜水棲姫改II",
+            "en": "Submarine Princess Kai B"
+        },
+        "1987": {
+            "jp": "潜水棲姫改II",
+            "en": "Submarine Princess Kai B"
+        },
+        "1988": {
+            "jp": "深海竹棲姫",
+            "en": "Abyssal Bamboo Princess"
+        },
+        "1989": {
+            "jp": "深海竹棲姫",
+            "en": "Abyssal Bamboo Princess"
+        },
+        "1990": {
+            "jp": "深海竹棲姫",
+            "en": "Abyssal Bamboo Princess"
+        },
+        "1991": {
+            "jp": "深海竹棲姫-壊",
+            "en": "Abyssal Bamboo Princess (Damaged)"
+        },
+        "1992": {
+            "jp": "深海竹棲姫-壊",
+            "en": "Abyssal Bamboo Princess (Damaged)"
+        },
+        "1993": {
+            "jp": "深海竹棲姫-壊",
+            "en": "Abyssal Bamboo Princess (Damaged)"
+        },
+        "1994": {
+            "jp": "集積地棲姫II",
+            "en": "Supply Depot Princess B"
+        },
+        "1995": {
+            "jp": "集積地棲姫II-壊",
+            "en": "Supply Depot Princess B (Damaged)"
+        },
+        "1996": {
+            "jp": "潜水棲姫改II",
+            "en": "Submarine Princess Kai B"
+        },
+        "1997": {
+            "jp": "空母棲姫改",
+            "en": "Aircraft Carrier Princess Kai"
+        },
+        "1998": {
+            "jp": "軽巡ト級",
+            "en": "To-Class Light Cruiser"
+        },
+        "1999": {
+            "jp": "重巡リ級II",
+            "en": "Ri-Class Heavy Cruiser B"
+        },
+        "2000": {
+            "jp": "ルンガ沖重巡棲姫",
+            "en": "Lunga Point Heavy Cruiser Princess"
+        },
+        "2001": {
+            "jp": "ルンガ沖重巡棲姫",
+            "en": "Lunga Point Heavy Cruiser Princess"
+        },
+        "2002": {
+            "jp": "ルンガ沖重巡棲姫",
+            "en": "Lunga Point Heavy Cruiser Princess"
+        },
+        "2003": {
+            "jp": "ルンガ沖重巡棲姫-壊",
+            "en": "Lunga Point Heavy Cruiser Princess (Damaged)"
+        },
+        "2004": {
+            "jp": "ルンガ沖重巡棲姫-壊",
+            "en": "Lunga Point Heavy Cruiser Princess (Damaged)"
+        },
+        "2005": {
+            "jp": "ルンガ沖重巡棲姫-壊",
+            "en": "Lunga Point Heavy Cruiser Princess (Damaged)"
+        },
+        "2006": {
+            "jp": "軽巡新棲姫",
+            "en": "New Light Cruiser Princess"
+        },
+        "2007": {
+            "jp": "軽巡新棲姫",
+            "en": "New Light Cruiser Princess"
+        },
+        "2008": {
+            "jp": "軽巡新棲姫",
+            "en": "New Light Cruiser Princess"
+        },
+        "2009": {
+            "jp": "軽巡新棲姫-壊",
+            "en": "New Light Cruiser Princess (Damaged)"
+        },
+        "2010": {
+            "jp": "軽巡新棲姫-壊",
+            "en": "New Light Cruiser Princess (Damaged)"
+        },
+        "2011": {
+            "jp": "軽巡新棲姫-壊",
+            "en": "New Light Cruiser Princess (Damaged)"
+        },
+        "2012": {
+            "jp": "軽巡ト級",
+            "en": "To-Class Light Cruiser"
+        },
+        "2013": {
+            "jp": "輸送ワ級II",
+            "en": "Wa-Class Transport Ship B"
+        },
+        "2014": {
+            "jp": "輸送ワ級II",
+            "en": "Wa-Class Transport Ship B"
+        },
+        "2015": {
+            "jp": "集積地棲姫II バカンスmode",
+            "en": "Supply Depot Princess B Vacation Mode"
+        },
+        "2016": {
+            "jp": "集積地棲姫II バカンスmode",
+            "en": "Supply Depot Princess B Vacation Mode"
+        },
+        "2017": {
+            "jp": "集積地棲姫II バカンスmode",
+            "en": "Supply Depot Princess B Vacation Mode"
+        },
+        "2018": {
+            "jp": "集積地棲姫II バカンスmode",
+            "en": "Supply Depot Princess B Vacation Mode"
+        },
+        "2019": {
+            "jp": "集積地棲姫II バカンスmode-壊",
+            "en": "Supply Depot Princess B Vacation Mode (Damaged)"
+        },
+        "2020": {
+            "jp": "集積地棲姫II バカンスmode-壊",
+            "en": "Supply Depot Princess B Vacation Mode (Damaged)"
+        },
+        "2021": {
+            "jp": "集積地棲姫II バカンスmode-壊",
+            "en": "Supply Depot Princess B Vacation Mode (Damaged)"
+        },
+        "2022": {
+            "jp": "集積地棲姫II バカンスmode-壊",
+            "en": "Supply Depot Princess B Vacation Mode (Damaged)"
+        },
+        "2023": {
+            "jp": "港湾夏姫II",
+            "en": "Summer Harbor Princess B"
+        },
+        "2024": {
+            "jp": "港湾夏姫II",
+            "en": "Summer Harbor Princess B"
+        },
+        "2025": {
+            "jp": "港湾夏姫II",
+            "en": "Summer Harbor Princess B"
+        },
+        "2026": {
+            "jp": "港湾夏姫II-壊",
+            "en": "Summer Harbor Princess B (Damaged)"
+        },
+        "2027": {
+            "jp": "港湾夏姫II-壊",
+            "en": "Summer Harbor Princess B (Damaged)"
+        },
+        "2028": {
+            "jp": "港湾夏姫II-壊",
+            "en": "Summer Harbor Princess B (Damaged)"
+        },
+        "2029": {
+            "jp": "地中海弩級水姫",
+            "en": "Mediterranean Dreadnought Water Princess"
+        },
+        "2030": {
+            "jp": "地中海弩級水姫",
+            "en": "Mediterranean Dreadnought Water Princess"
+        },
+        "2031": {
+            "jp": "地中海弩級水姫",
+            "en": "Mediterranean Dreadnought Water Princess"
+        },
+        "2032": {
+            "jp": "地中海弩級水姫-壊",
+            "en": "Mediterranean Dreadnought Water Princess (Damaged)"
+        },
+        "2033": {
+            "jp": "地中海弩級水姫-壊",
+            "en": "Mediterranean Dreadnought Water Princess (Damaged)"
+        },
+        "2034": {
+            "jp": "地中海弩級水姫-壊",
+            "en": "Mediterranean Dreadnought Water Princess (Damaged)"
+        },
+        "2035": {
+            "jp": "深海地中海棲姫 バカンスmode",
+            "en": "Abyssal Mediterranean Princess Vacation Mode"
+        },
+        "2036": {
+            "jp": "深海地中海棲姫 バカンスmode",
+            "en": "Abyssal Mediterranean Princess Vacation Mode"
+        },
+        "2037": {
+            "jp": "深海地中海棲姫 バカンスmode",
+            "en": "Abyssal Mediterranean Princess Vacation Mode"
+        },
+        "2038": {
+            "jp": "深海地中海棲姫 バカンスmode-壊",
+            "en": "Abyssal Mediterranean Princess Vacation Mode (Damaged)"
+        },
+        "2039": {
+            "jp": "深海地中海棲姫 バカンスmode-壊",
+            "en": "Abyssal Mediterranean Princess Vacation Mode (Damaged)"
+        },
+        "2040": {
+            "jp": "深海地中海棲姫 バカンスmode-壊",
+            "en": "Abyssal Mediterranean Princess Vacation Mode (Damaged)"
+        },
+        "2041": {
+            "jp": "欧州装甲空母棲姫",
+            "en": "European Armored Carrier Princess"
+        },
+        "2042": {
+            "jp": "欧州装甲空母棲姫",
+            "en": "European Armored Carrier Princess"
+        },
+        "2043": {
+            "jp": "欧州装甲空母棲姫",
+            "en": "European Armored Carrier Princess"
+        },
+        "2044": {
+            "jp": "欧州装甲空母棲姫-壊",
+            "en": "European Armored Carrier Princess (Damaged)"
+        },
+        "2045": {
+            "jp": "欧州装甲空母棲姫-壊",
+            "en": "European Armored Carrier Princess (Damaged)"
+        },
+        "2046": {
+            "jp": "欧州装甲空母棲姫-壊",
+            "en": "European Armored Carrier Princess (Damaged)"
+        },
+        "2047": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "2048": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "2049": {
+            "jp": "潜水新棲姫",
+            "en": "New Submarine Princess"
+        },
+        "2050": {
+            "jp": "駆逐ナ級IIe(量産型)",
+            "en": "Na-Class Destroyer IIe (Mass Production Model)"
+        },
+        "2051": {
+            "jp": "駆逐ナ級IIe(量産型)",
+            "en": "Na-Class Destroyer IIe (Mass Production Model)"
+        },
+        "2052": {
+            "jp": "駆逐ナ級IIe(量産型)",
+            "en": "Na-Class Destroyer IIe (Mass Production Model)"
+        },
+        "2053": {
+            "jp": "潜水鮫水鬼",
+            "en": "Submarine Shark Water Demon"
+        },
+        "2054": {
+            "jp": "潜水鮫水鬼",
+            "en": "Submarine Shark Water Demon"
+        },
+        "2055": {
+            "jp": "潜水鮫水鬼",
+            "en": "Submarine Shark Water Demon"
+        },
+        "2056": {
+            "jp": "潜水鮫水鬼-壊",
+            "en": "Submarine Shark Water Demon (Damaged)"
+        },
+        "2057": {
+            "jp": "潜水鮫水鬼-壊",
+            "en": "Submarine Shark Water Demon (Damaged)"
+        },
+        "2058": {
+            "jp": "潜水鮫水鬼-壊",
+            "en": "Submarine Shark Water Demon (Damaged)"
+        },
+        "2059": {
+            "jp": "ヒ船団棲姫",
+            "en": "Hi Convoy Princess"
+        },
+        "2060": {
+            "jp": "ヒ船団棲姫",
+            "en": "Hi Convoy Princess"
+        },
+        "2061": {
+            "jp": "ヒ船団棲姫-壊",
+            "en": "Hi Convoy Princess (Damaged)"
+        },
+        "2062": {
+            "jp": "ヒ船団棲姫-壊",
+            "en": "Hi Convoy Princess (Damaged)"
+        },
+        "2063": {
+            "jp": "深海梅棲姫",
+            "en": "Abyssal Plum Princess"
+        },
+        "2064": {
+            "jp": "深海梅棲姫",
+            "en": "Abyssal Plum Princess"
+        },
+        "2065": {
+            "jp": "深海梅棲姫",
+            "en": "Abyssal Plum Princess"
+        },
+        "2066": {
+            "jp": "深海梅棲姫-壊",
+            "en": "Abyssal Plum Princess (Damaged)"
+        },
+        "2067": {
+            "jp": "深海梅棲姫-壊",
+            "en": "Abyssal Plum Princess (Damaged)"
+        },
+        "2068": {
+            "jp": "深海梅棲姫-壊",
+            "en": "Abyssal Plum Princess (Damaged)"
+        },
+        "2069": {
+            "jp": "横浜岸壁棲姫",
+            "en": "Yokohama Wharf Princess"
+        },
+        "2070": {
+            "jp": "横浜岸壁棲姫",
+            "en": "Yokohama Wharf Princess"
+        },
+        "2071": {
+            "jp": "横浜岸壁棲姫-壊",
+            "en": "Yokohama Wharf Princess (Damaged)"
+        },
+        "2072": {
+            "jp": "横浜岸壁棲姫-壊",
+            "en": "Yokohama Wharf Princess (Damaged)"
+        },
+        "2073": {
+            "jp": "深海玉棲姫",
+            "en": "Abyssal Jade Princess"
+        },
+        "2074": {
+            "jp": "深海玉棲姫",
+            "en": "Abyssal Jade Princess"
+        },
+        "2075": {
+            "jp": "深海玉棲姫-壊",
+            "en": "Abyssal Jade Princess (Damaged)"
+        },
+        "2076": {
+            "jp": "深海玉棲姫-壊",
+            "en": "Abyssal Jade Princess (Damaged)"
+        },
+        "2077": {
+            "jp": "超重爆飛行場姫",
+            "en": "Super Heavy Bomber Airfield Princess"
+        },
+        "2078": {
+            "jp": "超重爆飛行場姫",
+            "en": "Super Heavy Bomber Airfield Princess"
+        },
+        "2079": {
+            "jp": "超重爆飛行場姫",
+            "en": "Super Heavy Bomber Airfield Princess"
+        },
+        "2080": {
+            "jp": "防空埋護冬姫",
+            "en": "Entombed Anti-Air Guardian Winter Princess"
+        },
+        "2081": {
+            "jp": "防空埋護冬姫",
+            "en": "Entombed Anti-Air Guardian Winter Princess"
+        },
+        "2082": {
+            "jp": "防空埋護冬姫-壊",
+            "en": "Entombed Anti-Air Guardian Winter Princess (Damaged)"
+        },
+        "2083": {
+            "jp": "防空埋護冬姫-壊",
+            "en": "Entombed Anti-Air Guardian Winter Princess (Damaged)"
+        },
+        "2084": {
+            "jp": "集積地棲姫III",
+            "en": "Supply Depot Princess C"
+        },
+        "2085": {
+            "jp": "集積地棲姫III-壊",
+            "en": "Supply Depot Princess C (Damaged)"
+        },
+        "2086": {
+            "jp": "集積地棲姫III",
+            "en": "Supply Depot Princess C"
+        },
+        "2087": {
+            "jp": "集積地棲姫III-壊",
+            "en": "Supply Depot Princess C (Damaged)"
+        },
+        "2088": {
+            "jp": "集積地棲姫III",
+            "en": "Supply Depot Princess C"
+        },
+        "2089": {
+            "jp": "集積地棲姫III-壊",
+            "en": "Supply Depot Princess C (Damaged)"
+        },
+        "2090": {
+            "jp": "重巡ネ級改",
+            "en": "Ne-Class Heavy Cruiser Kai"
+        },
+        "2091": {
+            "jp": "飛行場姫(哨戒機配備)",
+            "en": "Airfield Princess (w/ Patrol Aircraft)"
+        },
+        "2092": {
+            "jp": "飛行場姫(哨戒機配備)",
+            "en": "Airfield Princess (w/ Patrol Aircraft)"
+        },
+        "2093": {
+            "jp": "飛行場姫(哨戒機配備)",
+            "en": "Airfield Princess (w/ Patrol Aircraft)"
+        },
+        "2094": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "2095": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "2096": {
+            "jp": "飛行場姫",
+            "en": "Airfield Princess"
+        },
+        "2097": {
+            "jp": "外南洋駆逐棲姫",
+            "en": "Outer Southern Sea Destroyer Princess"
+        },
+        "2098": {
+            "jp": "外南洋駆逐棲姫",
+            "en": "Outer Southern Sea Destroyer Princess"
+        },
+        "2099": {
+            "jp": "外南洋駆逐棲姫-壊",
+            "en": "Outer Southern Sea Destroyer Princess (Damaged)"
+        },
+        "2100": {
+            "jp": "外南洋駆逐棲姫-壊",
+            "en": "Outer Southern Sea Destroyer Princess (Damaged)"
         }
     }
 }
