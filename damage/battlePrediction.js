@@ -96,7 +96,7 @@ function simulateBattle(rawapi) {
 
 function parsePhase(enemyHP, phase, rawapi, combined) {
 
-    if (phase.includes("hougeki")) {
+    if (phase.includes("hougeki") || phase == "api_opening_taisen") {
         HougekiMidnight(rawapi).forEach(attack => dealDamage(enemyHP, attack));
 
     } else if (phase.includes("raigeki") || phase == "api_opening_atack") {
