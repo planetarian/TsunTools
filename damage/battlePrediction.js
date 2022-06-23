@@ -67,11 +67,12 @@ function SupportHougeki(rawapi) {
     return rawapi.api_damage.map((damage, defender) => ({"damage": Math.floor(damage), "defender": defender})).filter(obj => obj.damage > 0);
 }
 
-function dealDamage(ehp, attack) {
+function dealDamage(ehp, attack, offsetCombined = false) {
+    const dfOffset = offsetCombined ? 6 : 0;
     if (typeof(attack.damage) == 'object') {
-        attack.damage.forEach((dmg, idx) => dmg > 0 ? ehp[attack.defender[idx]] -= Math.floor(dmg) : null);
+        attack.damage.forEach((dmg, idx) => dmg > 0 ? ehp[attack.defender[idx] + dfOffset] -= Math.floor(dmg) : null);
     } else {
-        ehp[attack.defender] -= attack.damage;
+        ehp[attack.defender + dfOffset] -= attack.damage;
     }
 }
 
@@ -104,8 +105,8 @@ function parsePhase(enemyHP, phase, rawapi, combined) {
     } else if (phase.includes("kouku") || phase.includes("injection")) {
         if (rawapi.api_stage3) {
             Kouku(rawapi.api_stage3).forEach(attack => dealDamage(enemyHP, attack));
-            if (combined) {
-                Kouku(rawapi.api_stage3_combined).forEach(attack => dealDamage(enemyHP, attack));
+            if (combined && rawapi.api_stage3_combined) {
+                Kouku(rawapi.api_stage3_combined).forEach(attack => dealDamage(enemyHP, attack, true));
             }
         }
 
