@@ -1,6 +1,6 @@
 const PLAYER_SIDE = 0;
 const HOUGEKI_MIDNIGHT_KEYS = ["api_damage", "api_df_list", "api_at_eflag"];
-const RAIGEKI_KEYS = ["api_frai", "api_fydam"];
+const RAIGEKI_KEYS = ["api_fydam", "api_frai"];
 const KOUKU_KEYS = ["api_edam", "api_ebak_flag", "api_erai_flag"];
 const PHASES = [
     "api_air_base_injection",
